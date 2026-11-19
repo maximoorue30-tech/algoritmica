@@ -6,7 +6,7 @@
 **Curso:** 5.º año 3.ª — Grupos A-B  
 **Año:** 2026  
 **Docente:** Mansilla Muñoz York Elías  
-**Alumno:** [Apellido, Nombre]
+**Alumno:** [Maximo Orue]
 
 ---
 
